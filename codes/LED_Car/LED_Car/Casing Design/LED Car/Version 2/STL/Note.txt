@@ -1,0 +1,19 @@
+Setting:
+- High Quality 0.2mm
+- Infill 100%
+- Speed 3000 mm/s
+- Temp 210
+- Temp Bed 50
+- Retract 0.2mm
+- Retract Speed 40 mm/s
+- Enable Support Tree slim
+
+Cost per kWH = Rp.1500
+
+LED_1:
+	Gram		: 37gr
+	Time		: 1H 11m
+	
+	Cost kWH/H	: 0.05 kWH
+	Total KWH	: 0.06
+			: 90
